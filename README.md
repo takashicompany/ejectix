@@ -7,7 +7,14 @@ Ejectixは36キーのロウスタッガード配列のキーボードです。
 構造も比較的シンプルなため組み立てやすく、自作キーボードをこれから始められる方にもオススメです。  
 ファームウェアはVIAに対応しているため、Remapを用いることでWebブラウザからファームウェアの書き込みやキーマップの変更が可能です。  
 MXソケットの取り付けにも対応しているためキースイッチの取り換えを容易にし長く愛用できます。  
-バックライトLEDで机の上を彩ることも可能です。
+アンダーグロウLEDで机の上を彩ることも可能です。
+
+Ejectix is a 36-key, low-staggered keyboard.  
+Its layout is similar to that of a conventional keyboard, making it suitable for an introductory keyboard of 30% size.  
+Its relatively simple structure makes it easy to assemble, and it is recommended for those who are just starting to build their own keyboards.  
+Since the firmware is VIA-compatible, it is possible to write the firmware and change the keymap from a web browser by using Remap.  
+The MX socket is also supported, making it easy to replace the keyswitch for long-lasting use.  
+Underglow LEDs can also be used to decorate your desk.
 
 ## 部品
 
@@ -36,3 +43,11 @@ MXソケットの取り付けにも対応しているためキースイッチの
 |:--|:--|:--|
 |[MXスイッチソケット](https://shop.yushakobo.jp/products/a01ps?variant=37665172521121)|36|キースイッチの交換が容易になります。使用しなくてもPCBにキースイッチをハンダ付けすることで組み立てられます。|
 |[LED(WS2812B)](https://shop.yushakobo.jp/products/a0800ws-01-10)|10|アンダーグロウライトととして点灯します。|
+
+## 組み立て方
+
+準備中です。
+
+## ファームウェア
+
+- [Remapからファームウェアの書き込み](https://remap-keys.app/catalog/PyPq2agpJE5Y4OEzVs53/firmware)が可能です。また、キーマップの変更もRemapで可能です。
