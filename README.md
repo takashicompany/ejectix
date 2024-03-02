@@ -46,7 +46,7 @@ Underglow LEDs can also be used to decorate your desk.
 
 ## 組み立て方
 
-準備中です。
+[Kumami(K)](https://twitter.com/Kumamihobby)さんの[自作キーボードキット「Ejectix」ビルドガイド](https://note.com/kumami_hobby/n/n78f420b0a2d8)をご覧ください。
 
 ## ファームウェア
 
