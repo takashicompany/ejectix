@@ -22,8 +22,6 @@ Underglow LEDs can also be used to decorate your desk.
 |部品|個数|備考|
 |:--|:--|:--|
 |PCB|1||
-|スイッチプレート|1|3mm厚アクリルプレート|
-|ボトムプレート|1|3mm厚アクリルプレート|
 |[ダイオード(リードタイプ)](https://shop.yushakobo.jp/products/a0800di-01-100)|36||
 |[タクタイルスイッチ](https://shop.yushakobo.jp/products/a0800ts-01-1)|1||
 |ゴム足シール|6||
@@ -33,6 +31,8 @@ Underglow LEDs can also be used to decorate your desk.
 ### ご自身で用意頂くもの
 |部品|個数|備考|
 |:--|:--|:--|
+|スイッチプレート(3mm厚)|1|[遊舎工房のキーボードアクリルプレートからお好みのカラーを選択してください。](https://shop.yushakobo.jp/products/keyboard_acrylic_plate?variant=48858804224231)|
+|ボトムプレート(3mm厚)|1|[遊舎工房のキーボードアクリルプレートからお好みのカラーを選択してください。](https://shop.yushakobo.jp/products/keyboard_acrylic_plate?variant=48858804224231)|
 |[Cherry MX互換キースイッチ](https://shop.yushakobo.jp/collections/all-switches)|36||
 |キーキャップ|36|1uサイズが30個、1.25uが6個|
 |[Pro Micro](https://talpkeyboard.net/?category_id=59e2ad48c8f22c3720001301)|1|動作確認済みのものは[こちら](https://talpkeyboard.net/items/62e24e6f8a0bd07fe2d38137)|
